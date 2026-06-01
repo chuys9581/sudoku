@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule

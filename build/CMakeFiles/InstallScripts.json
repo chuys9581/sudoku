@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Volumes/Documentos/Proyectos/sudoku/build/cmake_install.cmake",
+		"/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-build/cmake_install.cmake",
+		"/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-build/raylib/cmake_install.cmake",
+		"/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"/Volumes/Documentos/Proyectos/sudoku/build/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
